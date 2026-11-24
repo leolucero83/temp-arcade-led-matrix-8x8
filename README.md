@@ -1,4 +1,4 @@
-# Arcade Temperatura
+# Termómetro Arcade en Arduino
 
 Proyecto Arduino que muestra la temperatura ambiente en una matriz de LEDs 8x8 controlada por MAX7219, intercalando la lectura del sensor con animaciones clásicas de videojuegos estilo arcade (Space Invaders, Pac-Man, Tetris, Snake, entre otras).
 
