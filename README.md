@@ -2,7 +2,7 @@
 
 Proyecto Arduino que muestra la temperatura ambiente en una matriz de LEDs 8x8 controlada por MAX7219, intercalando la lectura del sensor con animaciones clásicas de videojuegos estilo arcade (Space Invaders, Pac-Man, Tetris, Snake, entre otras).
 
----
+https://github.com/user-attachments/assets/e7b8d760-5d23-42a5-a099-2689fc7ae8ff
 
 ## Características
 
